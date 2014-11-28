@@ -1,0 +1,124 @@
+<commands>
+<!-- module format= CLASS_LIB.CLASS_NAME -->
+	<command action="clr" help="Clears the console output text." completed="screen cleared" container="SimonInternalCommands" module="IN"  context="all" />
+	<command action="serverstart" help="Start the server." completed="server started" container="SimonInternalCommands" module="IN"  context="all" />
+	<command action="serverstop" help="Stop the server."  completed="server stopped" container="SimonInternalCommands" module="IN" context="all"  />
+	<command action="www"  help="Opens your webbrowser to the server index page." completed="navigating to webserver" container="SimonInternalCommands" module="IN" context="all"  />
+	
+	<command action="reload"  help="Reloads the application cache." container="SimonInternalCommands" module="IN" context="server_dev"  />	
+
+	<command action="exec"  help="Displays the server executable file hash." container="SimonInternalCommands" module="IN" context="server_dev"  />	
+		
+	<command action="appdoc"  help="Executes the documentation file associated with the application." container="SimonInternalCommands" module="IN" context="all" completed="Starting documentation"  />	
+	
+	<command action="appsrc"  help="Executes the sourcecode file associated with the application." container="SimonInternalCommands" module="IN" context="all" completed="Extracting source-code" />  
+
+	<command action="appicon"  help="Displays the icon file associated with the application." container="SimonInternalCommands" module="IN" context="all" completed="Displaying icon"/>  
+	
+	<command action="enableapp"  help="&lt;APPID OR NAME&gt;. Enables the app in the application cache." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="desc"  help="&lt;APPID OR NAME&gt; &lt;&quot;DESC&quot;&gt;. Sets the application description meta-data." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="findmp"  help="&lt;ID&gt; Search for a mapping point by id." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="disableapp"  help="&lt;APPID OR NAME&gt;. Disables the app in the application cache." container="SimonInternalCommands" module="IN" context="all"  />		
+	
+	<command action="publish"  help="&lt;APPID&gt;. Uploads the application to the Appstore." container="SimonInternalCommands" module="IN" context="server_dev" completed="Your application was successfully publish." />	
+	
+	<command action="setupurl"  help="Displays the TriniDAT Data Application Server installation URL." container="SimonInternalCommands" module="IN" context="all" />
+	
+	<command action="today"  help="Displays the current date." container="SimonInternalCommands" module="IN" context="all"  />	
+	<command action="time"  help="Displays the current time." container="SimonInternalCommands" module="IN"   context="all" />	
+	<command action="mission" help="" container="SimonInternalCommands" module="IN" context="all"  />	
+	<command action="help" help="" container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="context" explain="At all times this command helps you recognize the current console's interpretation context. This is necessary in order for TriniDAT to recognize situational commands." help="Displays the current command context." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="DEBUGDIC" completed="displaying debug command list" parameters="{$SETTING.CMDXML}" help="Displays debug command dictionary." container="SimonsDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsDebuggerSession\SimonsDebuggerSession\bin\Release\SimonsDebuggerSession.dll" context="debug_object" explain="This command outputs a list of commands that are used in controlling the application debugging and creation workflow of XML applications."  />	
+	
+	<command action="DPONG" context="all" help="Test command." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll" />		
+
+	<command action="dumpjson" context="debug_object" completed="dumping object" help="Displays current object in it's JSON representation." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll" explain="This command outputs the JSON string representation of the current object."  />	
+
+	<command action="dump" context="debug_object" completed="dumping object" help="Displays current object's contents." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll" explain="This command outputs the contents of the current object."  />	
+
+	<command action="dumpall" context="debug_object" completed="dumping object" help="Displays all current object's contents." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll" explain="This command outputs the contents of the current object."  />	
+
+	<command action="app" context="debug_object" help="Displays credential information about the TriniDAT application." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+
+		
+	<command action="mp" context="debug_object" help="Displays the mapping point associated with the object's application." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>			
+		
+	<command action="id" context="debug_object" explain="This command will display the the current object's unique identifier." help="Displays the current object's unique ID." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" completed="showing object" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+	
+	<command action="inf" context="debug_object" explain="This command will display all information associated with the current object." help="Displays all available information about the current object." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" completed="showing object" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+	
+	<command action="field" context="debug_object" help="&lt;FIELDNAME&gt; (optional). Outputs or set the field value. Use FIELDS to obtain field names." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+	
+	<command action="setfield" context="debug_object" help="&lt;FIELDNAME&gt; Set field value. Use FIELDS to obtain field names." container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+	
+		
+	<command action="dropsocket" context="debug_object"  help="Disconnects the associated debugging socket."  container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" completed="mapping point disconnected" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+	
+	<command action="fields" context="debug_object"  help="Outputs a list of editable fields."  container="SimonsObjectDebuggerSession.SimonsDebuggingCommands" completed="showing field names" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>			
+		
+	<command action="writeobj" context="debug_object"  help="Write debug object back to mapping point and closes connection."  container="SimonsObjectDebuggerSession.SimonsDebuggingCommands"  module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>	
+		
+	<command action="leave" context="debug_object"  help="Stop object debugging."  container="SimonsObjectDebuggerSession.SimonsDebuggingCommands"  module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsObjectDebuggerSession\SimonsObjectDebuggerSession\bin\Release\SimonsObjectDebuggerSession.dll"/>			
+		
+	<command action="appinfo"  help="&lt;APPID OR NAME&gt;. Displays app prototype." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="writelog"  help="Writes the current console log to a user determinable file." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="downloadfile"  help="&lt;URL&gt; &lt;FILE&gt;. Downloads file to the specified filepath." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="uninstall"  help="&lt;APPID OR NAME&gt;. Deletes an application." completed="Removing your application" container="SimonInternalCommands" module="IN" context="server_dev"  />	
+
+	<command action="appedit" help="Edit the specified TriniDAT application." container="SimonInternalCommands" module="IN" context="all" completed="Editing application file" />	
+	
+	<command action="appmeta" help="Displays configuration information about the specified TriniDAT application." container="SimonInternalCommands" module="IN" context="all" completed="Displaying application data" />	
+	
+	<command action="edit"  help="&lt;APPID OR NAME&gt;. Edit app's prototype XML file." container="SimonInternalCommands" module="IN" context="all"  />
+	
+	<command action="codestub"  help="View the template VB.NET code for creating a TriniDAT Mapping Point in .NET." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="appstub"  help="View the app manifest XML template for creating a TriniDAT App." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="appsdir"  help="Opens the application cache folder in Windows Explorer." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="sessionsdir"  help="Opens the server session cache in Windows Explorer." container="SimonInternalCommands" module="IN" context="all"  />
+		
+	<command action="apps"  help="Displays server application cache." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="objectmethod_send"  help="&lt;MAPPING_POINT_ID&gt;.SEND &quot;&lt;MAPPING_POINT_URL&gt;&quot;  &quot;&lt;TARGET_OBJECT_NAME&gt;&quot; &quot;&lt;OBJECT_TYPE&gt;&quot; &quot;&lt;DIRECTIVE&gt;&quot; &quot;&lt;COMMAND&gt;&quot;  &quot;&lt;OPTIONAL:FORWARD_TO_CLASSNAME&gt;&quot; Creates a text-based JSON object from scratch and will send it directly to the specified mapping point." container="SimonInternalCommands" module="IN" context="all"  />	
+	<command action="ip"  help="Display server IP address." container="SimonInternalCommands" module="IN" context="all"  />	
+	<command action="port" help="Display server port." container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="state" help="Display server state." container="SimonInternalCommands" module="IN" context="all" />
+	<command action="q" help="Quits TriniDAT Data Server." container="SimonInternalCommands" module="IN" context="all" />	
+	
+	<command action="explain" help="&lt;COMMAND&gt;. Get spoken assistance for a command." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="debug_app" help="Enter or leave the application debugger." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+
+	<command action="appindex" help="Same as WWW. Opens your webbrowser to the server index page." container="SimonInternalCommands" module="IN" context="all"  />	
+	
+	<command action="debug_app" help="Exit application debugger." container="SimonsDebuggerSession.SimonsDebuggingCommands" module="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\SimonsDebuggerSession\SimonsDebuggerSession\bin\Release\SimonsDebuggerSession.dll" context="debug_app"  />		
+	
+	<command action="version"  help="Displays server version information." container="SimonInternalCommands" module="IN" context="all"  />	
+
+	<command action="sezzle"  help="" container="SimonInternalCommands" module="IN" context="all"  />
+	<command action="plantlife"  help="" container="SimonInternalCommands" module="IN" context="all"  />	
+	<command action="hammertime" container="SimonInternalCommands" module="IN" context="all" />
+	<command action="gospastic" container="SimonInternalCommands" module="IN" context="all" />
+	<command action="boss" container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="dutchy"  help="" container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="movestack"  help="" container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="george" help="" container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="kaas" help="" container="SimonInternalCommands" module="IN" context="all"  />	
+	<command action="eurotime" help="" container="SimonInternalCommands" module="IN" context="all" />		
+	<command action="wisdom" help="" container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="rainbow" help="" container="SimonInternalCommands" module="IN" context="all" />	
+	<command action="technique"  container="SimonInternalCommands" module="IN" context="all"  />	
+	
+</commands>

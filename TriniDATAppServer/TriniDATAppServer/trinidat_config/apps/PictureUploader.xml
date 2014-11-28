@@ -1,0 +1,14 @@
+<app name="Picture uploader" interface="false" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="92">
+  <paymentdata>
+    <paymentgateway>1</paymentgateway>
+    <paymenthandle>2</paymenthandle>
+  </paymentdata>
+  <mps>
+    <mp url="/pictureuploader/" enablestats="false" runtimecount="349">
+      <jclass id="JPicUploader" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPictureUpload\JPictureUpload\bin\Release\JPictureUpload.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

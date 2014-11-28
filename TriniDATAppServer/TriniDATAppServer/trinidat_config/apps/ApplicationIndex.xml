@@ -1,0 +1,15 @@
+<app name="TriniDATs Application Index" interface="false" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="307" id="1" fullurl="http://192.168.2.1/1">
+  <paymentdata>
+    <paymentgateway></paymentgateway>
+    <paymenthandle></paymenthandle>
+  </paymentdata>
+  <mps>
+    <mp url="/" description="shared files" enablestats="true" maxthreadlifetime="10" runtimecount="964" fullurl="http://192.168.2.1/1/">
+      <jclass id="JFileserver" />
+      <jclass id="JDefaultServerPage" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll" name="Module 1 : JFileserver.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

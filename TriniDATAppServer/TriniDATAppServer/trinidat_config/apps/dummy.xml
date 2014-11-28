@@ -1,0 +1,8 @@
+<app name="dummy service" interface="false" xinherits="2" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="deleeuwict" runtimecount="852">
+  <mps>
+    <mp url="/test" enablestats="true">
+      <jclass id="JTextToSpeech"></jclass>
+      <jclass id="JServiceDummy"></jclass>
+    </mp>
+  </mps>
+</app>

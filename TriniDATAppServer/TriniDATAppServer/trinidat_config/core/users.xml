@@ -1,0 +1,1 @@
+<serverusers><serveruser name="DEVELOPMENT" password="DEVELOPMENT" maxthread="32"><permissiontable><appcachereload>true</appcachereload><appdebugging>true</appdebugging></permissiontable></serveruser></serverusers>

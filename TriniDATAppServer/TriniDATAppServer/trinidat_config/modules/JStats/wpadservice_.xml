@@ -1,0 +1,13 @@
+<wpadservice_ type="root" url="/wpadservice/">
+  <JAlpha type="class">
+    <http_get_count unique="1">3</http_get_count>
+    <some_single_var>1</some_single_var>
+    <http_get_path>%2fwpadservice%2fabcd</http_get_path>
+    <http_get_count2 unique="1">3</http_get_count2>
+    <http_last_get_request unique="1">5-4-2013+3%3a36%3a16</http_last_get_request>
+    <some_single_var>1</some_single_var>
+    <http_get_path>%2fwpadservice%2fabcd</http_get_path>
+    <some_single_var>1</some_single_var>
+    <http_get_path>%2fwpadservice%2fabcd</http_get_path>
+  </JAlpha>
+</wpadservice_>

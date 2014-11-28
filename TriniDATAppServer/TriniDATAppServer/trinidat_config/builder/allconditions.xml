@@ -1,0 +1,38 @@
+<conditions>
+	<condition lefthand="property" righthand="text" operator="EQ">Is</condition>
+	<condition lefthand="property" righthand="text" operator="$MP">Is Mapping Point</condition>
+	<condition lefthand="property" righthand="text" operator="IN">Contains</condition>
+	<condition lefthand="property" righthand="text" operator="GT">Greater Than</condition>		
+	<condition lefthand="property" righthand="text" operator="LT">Less Than</condition>		
+	<condition lefthand="property" righthand="text" operator="LTE">Less Than Or Is</condition>		
+	<condition lefthand="property" righthand="text" operator="GTI">Greater Than Or Is</condition>		
+	<condition lefthand="property" righthand="text" operator="EQ" inversalcondition="1">Is Not</condition>
+	<condition lefthand="property" righthand="text" operator="IN" inversalcondition="1">Does Not Contain</condition>
+	<condition lefthand="property" righthand="text" operator="GT" inversalcondition="1">Not Greater Than</condition>		
+	<condition lefthand="property" righthand="text" operator="LT" inversalcondition="1">Not Lesser Than</condition>		
+	<condition lefthand="property" righthand="text" operator="LTE" inversalcondition="1">Not Lesser Than Or Equal To</condition>		
+	<condition lefthand="property" righthand="text" operator="GTE" inversalcondition="1">Not Greater Than Or Equal To</condition>		
+	<condition lefthand="property" righthand="$WORD_DICTIONARY$" operator="HAS">Has</condition>
+	<condition lefthand="property" righthand="$WORD_DICTIONARY$" operator="HAS" inversalcondition="1">Has Not</condition>
+	<condition lefthand="property" righthand="$WORD_DICTIONARY$" operator="LEFT">Starts With</condition>
+	<condition lefthand="property" righthand="$WORD_DICTIONARY$" operator="LEFT" inversalcondition="1">Does Not Start With</condition> 
+	<condition lefthand="property" righthand="$WORD_DICTIONARY$" operator="RIGHT">Ends With</condition>
+	<condition lefthand="property" righthand="$WORD_DICTIONARY$" operator="RIGHT" inversalcondition="1">Does Not End With</condition>
+	<condition lefthand="property.attribute" righthand="text" operator="EQ">Is</condition>
+	<condition lefthand="property.attribute" righthand="text" operator="GT">Greater Than</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="LT">Less Than</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="LTE">Less Than Or Is</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="GTE">Greater Than Or Is</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="EQ" inversalcondition="1">Is Not</condition>
+	<condition lefthand="property.attribute" righthand="text" operator="GT" inversalcondition="1">Not Greater Than</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="LT" inversalcondition="1">Not Lesser Than</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="LTE" inversalcondition="1">Not Lesser Than Or Equal To</condition>		
+	<condition lefthand="property.attribute" righthand="text" operator="GTE" inversalcondition="1">Not Greater Than Or Equal To</condition>	
+	<condition lefthand="property.attribute" righthand="$WORD_DICTIONARY$" operator="HAS">Contains</condition>
+	<condition lefthand="property.attribute" righthand="$WORD_DICTIONARY$" operator="HAS" inversalcondition="1">Does Not Contain</condition>
+	<condition lefthand="property.attribute" righthand="$WORD_DICTIONARY$" operator="LEFT">Starts With</condition>
+	<condition lefthand="property.attribute" righthand="$WORD_DICTIONARY$" operator="LEFT" inversalcondition="1">Does Not Start With</condition> 
+	<condition lefthand="property.attribute" righthand="$WORD_DICTIONARY$" operator="RIGHT">Ends With</condition>
+	<condition lefthand="property.attribute" righthand="$WORD_DICTIONARY$" operator="RIGHT" inversalcondition="1">Does Not End With</condition>
+</conditions>
+	

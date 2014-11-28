@@ -1,0 +1,45 @@
+<operators>
+	<operator id="0" lefthand_prototypeid="property" righthand_prototypeid="(none)" operatorname="TRUE">TRUE</operator>
+	<operator id="1" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="EQ">Is</operator>
+	<operator id="2"  lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="$MP">Is Mapping Point</operator>
+	<operator id="3" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="IN">Contains</operator>
+	<operator id="4" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="GT">Greater Than</operator>		
+	<operator id="5" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="LT">Less Than</operator>		
+	<operator id="6" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="LTE">Less Than Or Is</operator>		
+	<operator id="7" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="GTI">Greater Than Or Is</operator>		
+	<operator id="8" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="EQ" inversed="1">Is Not</operator>
+	<operator id="9" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="IN" inversed="1">Does Not Contain</operator>
+	<operator id="10" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="GT" inversed="1">Not Greater Than</operator>		
+	<operator id="11" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="LT" inversed="1">Not Lesser Than</operator>		
+	<operator id="12" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="LTE" inversed="1">Not Lesser Than Or Equal To</operator>		
+	<operator id="13" lefthand_prototypeid="property" righthand_prototypeid="String" operatorname="GTE" inversed="1">Not Greater Than Or Equal To</operator>		
+	<operator id="14" lefthand_prototypeid="property" righthand_prototypeid="Array" operatorname="HASSTRING">Has</operator>
+	<operator id="15" lefthand_prototypeid="property" righthand_prototypeid="Array" operatorname="HASSTRING" inversed="1">Has Not</operator>
+	<operator id="16" lefthand_prototypeid="property" righthand_prototypeid="Array" operatorname="LEFT">Starts With</operator>
+	<operator id="17" lefthand_prototypeid="property" righthand_prototypeid="Array" operatorname="LEFT" inversed="1">Does Not Start With</operator> 
+	<operator id="18" lefthand_prototypeid="property" righthand_prototypeid="Array" operatorname="RIGHT">Ends With</operator>
+	<operator id="19" lefthand_prototypeid="property" righthand_prototypeid="Array" operatorname="RIGHT" inversed="1">Does Not End With</operator>
+	<operator id="20" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="EQ">Is</operator>
+	<operator id="21" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="GT">Greater Than</operator>		
+	<operator id="22" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="LT">Less Than</operator>		
+	<operator id="23" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="LTE">Less Than Or Is</operator>		
+	<operator id="24" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="GTE">Greater Than Or Is</operator>		
+	<operator id="25" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="EQ" inversed="1">Is Not</operator>
+	<operator id="26" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="GT" inversed="1">Not Greater Than</operator>		
+	<operator id="27" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="LT" inversed="1">Not Lesser Than</operator>		
+	<operator id="28" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="LTE" inversed="1">Not Lesser Than Or Equal To</operator>		
+	<operator id="29" lefthand_prototypeid="property.attribute" righthand_prototypeid="String" operatorname="GTE" inversed="1">Not Greater Than Or Equal To</operator>	
+	<operator id="30" lefthand_prototypeid="property.attribute" righthand_prototypeid="Array" operatorname="HAS">Contains</operator>
+	<operator id="31" lefthand_prototypeid="property.attribute" righthand_prototypeid="Array" operatorname="HAS" inversed="1">Does Not Contain</operator>
+	<operator id="32" lefthand_prototypeid="property.attribute" righthand_prototypeid="Array" operatorname="LEFT">Starts With</operator>
+	<operator id="33" lefthand_prototypeid="property.attribute" righthand_prototypeid="Array" operatorname="LEFT" inversed="1">Does Not Start With</operator> 
+	<operator id="34" lefthand_prototypeid="property.attribute" righthand_prototypeid="Array" operatorname="RIGHT">Ends With</operator>
+	<operator id="35" lefthand_prototypeid="property.attribute" righthand_prototypeid="Array" operatorname="RIGHT" inversed="1">Does Not End With
+	<operator id="36" lefthand_prototypeid="JSON.Property" righthand_prototypeid="String"  operatorname="HASJSON">JSON field Contains</operator>
+	<operator id="37" lefthand_prototypeid="JSON.Property" righthand_prototypeid="String" operatorname="HASJSON" inversed="1">JSON field Contains Not</operator>	
+	
+	</operator>
+	
+	
+	
+</operators>

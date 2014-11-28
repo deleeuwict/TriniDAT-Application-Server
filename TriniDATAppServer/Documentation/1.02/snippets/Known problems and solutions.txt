@@ -1,0 +1,37 @@
+Known issues / poor performance:
+
+Problem: Random socket time-outs.
+
+This is a Windows problem, caused by other socket-level applications such as firewalls, anti-virus scanners and streaming media players. The problem can succesfully be recreated by streaming live media while fetching server pages. Connectivity enabled apps will experience socket timeouts automatically.
+
+Suggestions: disable security software such as local anti-virus scanners and firewalls. Run anti-virus software with all Internet related features disabled. Do not stream multimedia files on a server machine. AVG Anti-Virus is a known software that will break server connections periodically.
+
+
+
+Problem: Server displays Blank Index Page with no tile grid in IE.
+
+Cause: TriniDAT's internet web browser control conflicts with external IE instance. 
+IE bug due permission drop on the javascript JSON object.
+
+No concrete fix available yet. Other apps are not be affected and are still available in a IE browser.
+Temporary solution: Browse server from different machine or use non-IE browser to navigate on local host. 
+
+
+
+
+Problem: Synchronization errors with identical & unique statistics.
+
+The problem of desynchronized stats can be recreated by playing media files (e.g. MP3s) while fetching stat-enabled mapping points at high volume rate. The problem seems to be caused by Windows internal filesystem buffering (probably an optimalization routine for the sake of fast media playback). TriniDAT writes any stat recording directly to an internal XML file. File versions might differ due to underlying .NET buffering and Windows filesystem driver caching problems.
+
+In Code:
+
+...
+me.PutUnique = "mystat1++"  'mystat1 and mystat2 are set in the same procedure 
+me.PutUnique = "mystat2++" ' but might record different values over longer periods of time.
+
+
+Solution: If extreme high precision statistics are required the server environment should be free of any multimedia apps and local anti-virus softwares. The server should have high speed harddrives in order to optimize disk access.
+
+
+For best performance do not run other applications or security software on the server. Use hardware based security implementations instead.
+

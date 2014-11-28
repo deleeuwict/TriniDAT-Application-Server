@@ -1,0 +1,26 @@
+<translationtable>
+	<translationitem id="SERVERSTARTERR" culturestring="(any)" text="server is already active"/>
+	<translationitem id="SERVERSTOPERR" culturestring="(any)" text="server already stopped"/>
+	<translationitem id="HELPHINT" culturestring="(any)" text="Type 'help' for command list." />	
+	<translationitem id="HELPHEADER" culturestring="(any)" text="TriniDAT Data Server Commands." />		
+	<translationitem id="PREFIXTODAY" culturestring="(any)" text="today is"/>	
+	<translationitem id="TODAYFORMAT" culturestring="(any)" text="MMMM dd, yyyy"/>	
+	<translationitem id="SERVERSTATEONLINE" culturestring="(any)" text="online"/>	
+	<translationitem id="SERVERSTATEOFFLINE" culturestring="(any)" text="offline"/>	
+	<translationitem id="TIMEFORMAT" culturestring="(any)" text="H:mm:ss"/>	
+	<translationitem id="DEBUGENABLED" culturestring="(any)" text="debug mode entered"/>
+	<translationitem id="DEBUGDISABLED" culturestring="(any)" text="debug mode disabled"/>
+	<translationitem id="ERROR" culturestring="(any)" text="input not recognized."/>
+	<translationitem id="CONSOLE_MODESET_DEBUG_OBJ" culturestring="(any)" text="Console in debugging mode."/>
+	<translationitem id="NOASSISTANCE" culturestring="(any)" text="Assistance for this command not available."/>
+	<translationitem id="DEBUG_OBJECT_NOMPASSOCIATED" culturestring="(any)" text="object not associated with a known mapping point."/>
+	<translationitem id="DEBUG_OBJECT_UNKNOWN" culturestring="(any)" text="Object unknown"/>	
+	<translationitem id="DEBUG_OBJECT_INVALID" culturestring="(any)" text="Invalid Object"/>	
+	<translationitem id="DEBUG_OBJECT_LEAVE" culturestring="(any)" text="Leaving debug mode." />
+	<translationitem id="FROZEN_DUMP_HINT" culturestring="(any)" text="Enter command DUMPALL to see object contents." />
+	<translationitem id="FIELD_ERR1" culturestring="(any)" text="New field value must be enclosed in quotes." />
+	<translationitem id="INVALIDJSON" culturestring="(any)" text="Invalid JSON." />
+	<translationitem id="INVALIDSOCKET" culturestring="(any)" text="Write error. socket is already closed." />
+	<translationitem id="NOTPUB" culturestring="(any)" text="The application was not published." />
+	
+</translationtable>

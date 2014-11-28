@@ -1,0 +1,22 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\bin\Debug\TriniDATSandbox.exe
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\bin\Debug\TriniDATSandbox.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\bin\Debug\TriniDATSandbox.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.Form1.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.exe
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\bin\Debug\TriniDATSandbox.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\bin\Debug\TriniDATSandbox.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\bin\Debug\TriniDATSandbox.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.Form1.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATSandBox\TriniDATSandbox\TriniDATSandbox\obj\x86\Debug\TriniDATSandbox.exe

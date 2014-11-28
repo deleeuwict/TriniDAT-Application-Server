@@ -1,0 +1,11 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\bin\Debug\TriniDATActionForwarder.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\bin\Debug\TriniDATActionForwarder.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\bin\Debug\TriniDATActionForwarder.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\TriniDATActionForwarder.Form1.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\TriniDATActionForwarder.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\TriniDATActionForwarder.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\TriniDATActionForwarder.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\obj\x86\Debug\TriniDATActionForwarder.pdb

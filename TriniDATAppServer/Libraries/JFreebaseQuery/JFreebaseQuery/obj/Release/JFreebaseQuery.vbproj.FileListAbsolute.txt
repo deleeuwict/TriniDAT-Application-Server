@@ -1,0 +1,16 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\JFreebaseQuery.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\JFreebaseQuery.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\JFreebaseQuery.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\BlingServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\BlingServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\BlingServerTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\JFreebaseQuery.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\JFreebaseQuery.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\JFreebaseQuery.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFreebaseQuery\JFreebaseQuery\obj\Release\JFreebaseQuery.pdb

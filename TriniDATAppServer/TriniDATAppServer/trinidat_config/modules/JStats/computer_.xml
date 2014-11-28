@@ -1,0 +1,9 @@
+<computer_ type="root" url="/computer/">
+  <JAlpha type="class">
+    <some_single_var>1</some_single_var>
+    <http_get_count unique="1">1</http_get_count>
+    <http_get_count2 unique="1">1</http_get_count2>
+    <http_last_get_request unique="1">5-4-2013+3%3a35%3a28</http_last_get_request>
+    <http_get_path>%2fcomputer%2fproxy%2fsetwpad</http_get_path>
+  </JAlpha>
+</computer_>

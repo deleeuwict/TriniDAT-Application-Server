@@ -1,0 +1,18 @@
+<actions>
+	<action name="InvokeGenerateHTTPRequest" tabname="Forwarder" id="0" compilerclass="xx">
+		<parameter prototypeid="MappingPoint" name="target_mp" usertitle="Forward Target"></parameter>
+	</action>
+	<action name="InvokeHTTPRedirect" tabname="Forwarder" id="0" compilerclass="xx">
+		<parameter prototypeid="MappingPoint" name="target_mp" usertitle="Forward Target"></parameter>
+	</action>
+	<action name="Drop New Statistic" tabname="Drop Statistical Item" id="1" compilerclass="xx">
+		<parameter prototypeid="String" name="statname" usertitle="Stat Name"></parameter>
+		<parameter prototypeid="String" name="statvalue" usertitle="Stat Value"></parameter>
+	</action>
+	<action name="Switch To Data Processor 2" tabname="Switch DP" id="2" compilerclass="xx">
+		<parameter prototypeid="App" usertitle="Select Server Profile"></parameter>
+	</action>
+	<action name="Switch To Data Processor 2" tabname="Switch DP" id="2" compilerclass="xx">
+		<parameter prototypeid="App" usertitle="Select Server Profile"></parameter>
+	</action>	
+</actions>

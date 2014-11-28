@@ -1,0 +1,7 @@
+VB  project setup:
+
+1. Notepad++ : replace hardcoded user paths in *.xml
+2. replace hardcoded paths in TriniDAT startup macro file.
+3. change windows serial in http://www.deleeuwict.nl/trinidat/updater/svrlicense1985.xml
+4. change windows serial in GlobalObject.userIsGJ
+ 

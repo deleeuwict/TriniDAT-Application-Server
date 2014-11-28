@@ -1,0 +1,13 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Debug\JSocialNameVerify.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Debug\JSocialNameVerify.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Debug\JSocialNameVerify.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Debug\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Debug\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Debug\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\JSocialNameVerify.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\JSocialNameVerify.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\JSocialNameVerify.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JSocialNameVerify\JSocialNameVerify\obj\Debug\JSocialNameVerify.pdb

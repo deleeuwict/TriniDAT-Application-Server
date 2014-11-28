@@ -1,0 +1,8 @@
+<httpserver>
+  <listenon>127.0.0.1</listenon>
+  <listenat>80</listenat>
+  <requesttimeoutsec>25</requesttimeoutsec>
+  <receivebuffersize>10240</receivebuffersize>
+  <defaultmaxthread>32</defaultmaxthread>
+  <userpaykey>B3028294767E2D3BBBA68D0EFB10FC70</userpaykey>
+</httpserver>

@@ -1,0 +1,16 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\JDISQUSThread.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\JDISQUSThread.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\JDISQUSThread.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\JDISQUSThread.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\JDISQUSThread.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\JDISQUSThread.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JDISQUSThread\JDISQUSThread\obj\Debug\JDISQUSThread.pdb

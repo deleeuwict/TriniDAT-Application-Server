@@ -1,0 +1,11 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\JPHPCompiler.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\JPHPCompiler.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Debug\JPHPCompiler.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Debug\JPHPCompiler.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Debug\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Debug\PhpNetPDOSQLServer.dll

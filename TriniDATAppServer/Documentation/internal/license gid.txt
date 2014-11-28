@@ -1,0 +1,11 @@
+http://www.deleeuwict.nl/trinidatupdate/check.php?w= 89578DOM733215700061&e=859A64989A01F85B0C4556399D87759F&type=34F153ADAD3314752F734BECF80F9AEC&operatingsystemlanguage=Dutch+(Netherlands)
+
+RETURN:
+X-Object-Sync: "dd-invalidMM-yyyyy hh:ss"
+
+
+'AAAAAA-BBBBBB-DDDDDD-FFFFFF-GGGGGG (len: 35)
+
+invalidMM.range ^^ GIDPART  
+GIDPART.RIGHT(1) = license index
+

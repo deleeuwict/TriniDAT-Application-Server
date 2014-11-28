@@ -1,0 +1,28 @@
+<app name="Test" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="deleeuwict">
+			<action id="InvokeHTTPRedirect" jclass="(root)" statdropurl="global" type="httpforwarder">
+					<parameters>
+						<parameter prototypeid="MappingPoint" value="/random/disqus"></parameter>
+					</parameters>
+					<statdropconditions>
+						<statcondition operator="EQ" usertitle="Random Disqus comment" name="http_get"><parameter prototypeid="String" value="/random/disqus"/></statdropconditions>				
+			</action>
+
+			<action id="InvokeHTTPRedirect" jclass="(root)" statdropurl="global" type="httpforwarder">
+					<parameters>
+						<parameter prototypeid="MappingPoint" value="/random/proxy"></parameter>
+					</parameters>
+					<statdropconditions>
+						<statcondition operator="EQ" usertitle="Random Proxy Request" name="http_get"><parameter prototypeid="String" value="/random/proxy"/></statdropconditions>				
+			</action>
+			
+			<action id="ExecuteMappingPoint" jclass="JClassX" mpurl="/facebook" type="invoker">
+					<parameters>
+						<parameter prototypeid="MappingPoint" value="/random/proxy"></parameter>
+					</parameters>
+					<statdropconditions>
+						<statcondition operator="LTE" usertitle="Facebook Account Count" name="facebook_account_count"><parameter prototypeid="Integer" value="10"></condition>
+					</statdropconditions>				
+			</action>			
+
+			
+	</app>

@@ -1,0 +1,63 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\bin\Release\JNetwork.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\bin\Release\JNetwork.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\bin\Release\JNetwork.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\JNetwork.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\JNetwork.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\JNetwork.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JNetwork\obj\Release\JNetwork.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\TrinidadServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\TrinidadServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\TrinidadServerTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\BlingBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JNetwork\JNetwork\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\obj\Release\JNetwork.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\TriniDATServerTypes.xml

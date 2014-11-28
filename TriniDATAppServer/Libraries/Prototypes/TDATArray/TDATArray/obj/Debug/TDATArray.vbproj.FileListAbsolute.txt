@@ -1,0 +1,10 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\bin\Debug\TDATArray.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\bin\Debug\TDATArray.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\bin\Debug\TDATArray.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\TDATArray.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\TDATArray.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\TDATArray.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\Prototypes\TDATArray\TDATArray\obj\Debug\TDATArray.pdb

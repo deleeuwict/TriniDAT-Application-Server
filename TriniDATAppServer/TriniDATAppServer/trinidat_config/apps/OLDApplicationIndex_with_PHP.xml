@@ -1,0 +1,18 @@
+<app name="TriniDATs Application Index" interface="false" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="294" id="1" fullurl="http://192.168.2.1/1">
+  <paymentdata>
+    <paymentgateway>1</paymentgateway>
+    <paymenthandle>2</paymenthandle>
+  </paymentdata>
+  <mps>
+    <mp url="/" description="shared files" enablestats="true" maxthreadlifetime="10" runtimecount="949" fullurl="http://192.168.2.1/1/">
+      <jclass id="JPHPCompiler" />
+      <jclass id="JFileserver" />
+      <jclass id="JDefaultServerPage" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.dll" name="Module 1 : JPHPCompiler.dll" fullurl="/1/" />
+        <dependency path="PhpNetClassLibrary, Version=3.0.0.0, Culture=neutral, PublicKeyToken=4af37afe3cde05fb" name="Module 2 : PhpNetClassLibrary, Version=3.0.0.0, Culture=neutral, PublicKeyToken=4af37afe3cde05fb" fullurl="/1/" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll" name="Module 3 : JFileserver.dll" fullurl="/1/" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

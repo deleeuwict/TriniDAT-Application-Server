@@ -1,0 +1,10 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\bin\Release\TriniDATServerStatTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\bin\Release\TriniDATServerStatTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\bin\Release\TriniDATServerStatTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\TriniDATServerStatTypes.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\TriniDATServerStatTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\TriniDATServerStatTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\TriniDATServerStatTypes\TriniDATServerStatTypes\TriniDATServerStatTypes\obj\Release\TriniDATServerStatTypes.pdb

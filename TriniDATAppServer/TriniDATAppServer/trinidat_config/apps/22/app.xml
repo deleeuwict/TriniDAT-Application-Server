@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<app name="TriniDATs Application Index" interface="false" author="De Leeuw ICT" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl">
+  <paymentdata>
+    <paymentgateway></paymentgateway>
+    <paymenthandle></paymenthandle>
+  </paymentdata>
+  <mps>
+    <mp url="/" description="Serves Index Page" enablestats="true" maxthreadlifetime="10">
+      <jclass id="JFileserver" />
+      <jclass id="JDefaultServerPage" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\22\JFileserver.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

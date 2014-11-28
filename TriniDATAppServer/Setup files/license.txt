@@ -1,0 +1,29 @@
+TRINIDAT DATA APPLICATION SERVER by De Leeuw ICT
+SOFTWARE LICENSE TERMS
+
+These license terms are an agreement between De Leeuw ICT and you.  Please read them.  They apply to the software named above, which includes the media on which you received it, if any.  The terms also apply to any TriniDAT Data Application Server updates, modules, data connection services, Internet services, and s upport services for this software, unless other terms accompany those items.  If so, those terms apply.
+
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.  IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1.	INSTALLATION AND USE RIGHTS.  
+a.	Installation and Use.  You may install and use any number of copies of this software's free edition version on your devices.
+2.	Scope of License.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  De Leeuw ICT reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.    You may not
+a)	disclose the results of any benchmark tests of the software to any third party without De Leeuw ICT’s prior written approval;
+b)	work around any technical limitations in the software;
+c)	reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+d)	make more copies of the software than your licensed version permits;
+e)	publish your personal license(s) of this software to others;
+f)	rent, lease or lend your licensed version without explicit permission from De Leeuw ICT; or
+g)	use the software for commercial software hosting services without a valid license.
+3.	TRANSFER TO A THIRD PARTY.  The first user of the software may transfer it and this agreement directly to a third party.  Before the transfer, that party must agree that this agreement applies to the transfer and use of the software.  The first user must uninstall the software before transferring it separately from the device.  The first user may not retain any copies.
+4.	Export Restrictions.  The software is subject to the Kingdom of the Netherlands export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.
+5.	SUPPORT SERVICES. Because this software is “as is,” we may, depending on a license type, not provide support services for it.
+6.	Entire Agreement.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
+7.	Applicable Law.
+8.	Legal Effect.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+9.	Disclaimer of Warranty.   The software is licensed “as-is.”  You bear the risk of using it.  De Leeuw ICT gives no express warranties, guarantees or conditions.  You may have additional consumer rights under your local laws which this agreement cannot change. 
+10.	Limitation on and Exclusion of Remedies and Damages.  You can recover from De Leeuw ICT and its suppliers only direct damages up to U.S. $12.00.  You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.
+This limitation applies to
+a)	anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
+b)	claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
+It also applies even if De Leeuw ICT knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.

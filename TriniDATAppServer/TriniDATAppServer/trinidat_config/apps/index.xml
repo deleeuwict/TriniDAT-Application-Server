@@ -1,0 +1,10 @@
+<apps>
+  <app id="1" name="Main App" filepath="Main.xml"  />
+  <app name="Ext Simon" filepath="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\3\extsimon.xml" id="3" />
+  <app id="4" name="Blocks" filepath="Blocks.xml"  />
+  <app id="5" name="JPicSplitter" filepath="PicSplit.xml"  />
+  <app id="7" name="PictureUpload" filepath="PictureUploader.xml"  />
+  <app name="Zest" filepath="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\8\app.xml" id="8" />
+  <app name="CNN App" filepath="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\cnn\cnnapp.xml" id="2" />
+
+</apps>

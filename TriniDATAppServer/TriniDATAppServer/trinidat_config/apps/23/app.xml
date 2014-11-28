@@ -1,0 +1,11 @@
+<app name="My Application" interface="false" author="My Name" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="1" fullurl="http://192.168.2.1/23">
+  <mps>
+    <!-- Define a new webservice with statistics and JInteractiveConsole features on -->
+    <mp url="/twitter" description="My Webservice" enablestats="true" interactiveconsolefeatures="true" fullurl="http://192.168.2.1/23/twitter/">
+      <jclass id="JTwitterParser" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\23\JTwitterDemo.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

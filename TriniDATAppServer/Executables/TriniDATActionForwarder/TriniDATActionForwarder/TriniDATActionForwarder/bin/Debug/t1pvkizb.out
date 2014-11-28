@@ -1,0 +1,6 @@
+﻿C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\bin\Debug> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe" /t:exe /utf8output /R:"System.Web.DLL" /R:"System.Net.DLL" /out:"C:\temp\test.exe" /D:DEBUG=1 /debug+ /optimize  "C:\Users\gertjan\AppData\Local\Temp\src.txt"
+
+
+Microsoft (R) Visual Basic Compiler versie 10.0.30319.233
+Copyright (c) Microsoft Corporation. Alle rechten voorbehouden.
+

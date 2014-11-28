@@ -1,0 +1,53 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\JTwitterFeedSearch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\JTwitterFeedSearch\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JTwitterFeedSearch\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TrinidadServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TrinidadServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TrinidadServerTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\BlingSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\obj\Release\JTwitterFeedSearch.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\TriniDATServerTypes.xml

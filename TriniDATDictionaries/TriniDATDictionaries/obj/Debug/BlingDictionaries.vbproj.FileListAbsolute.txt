@@ -1,0 +1,16 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\BlingDictionaries.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\obj\Debug\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingDictionaries\BlingDictionaries\bin\Debug\BlingBrowserEvent.xml

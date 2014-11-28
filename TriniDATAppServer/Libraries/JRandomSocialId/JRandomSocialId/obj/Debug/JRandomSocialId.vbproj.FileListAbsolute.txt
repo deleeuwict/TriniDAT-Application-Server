@@ -1,0 +1,16 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\JRandomSocialId.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\JRandomSocialId.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\JRandomSocialId.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\JRandomSocialId.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\JRandomSocialId.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\JRandomSocialId.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JRandomSocialId\JRandomSocialId\obj\Debug\JRandomSocialId.pdb

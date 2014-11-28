@@ -1,0 +1,22 @@
+<!-- TriniDAT Data Application Server - Example XML Application Manifest.
+(c) 2013 GertJan de Leeuw | De Leeuw ICT | www.deleeuwict.nl | Visit the Developer Community Forum for code, new apps and more @ www.deleeuwict.nl/forum !  
+
+Quick TriniDAT App creation instruction:
+	
+	1) ZIP your application DLLs
+	2) Edit this manifest to define your app.
+	3) Save manifest to AppManifest.xml -> Add to ZIP.
+	
+-->
+
+<app name="My Application" interface="false" author="My Name" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="0">
+  <mps>
+  <!-- Define a new webservice with statistics and JInteractiveConsole features on -->
+    <mp url="/MyService" description="My Webservice" enablestats="true" interactiveconsolefeatures="true">
+      <jclass id="JMyClass" />
+      <dependencies>
+        <dependency path="C:\JMyClass.DLL" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

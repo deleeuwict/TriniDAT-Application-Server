@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Treemap - TreeMap with on-demand nodes</title>
+
+<!-- CSS Files -->
+<link type="text/css" href="css/base.css" rel="stylesheet" />
+<link type="text/css" href="css/Treemap.css" rel="stylesheet" />
+
+<script language="javascript" type="text/javascript" src="jit/excanvas.js"></script>
+
+<!-- JIT Library File -->
+<script language="javascript" type="text/javascript" src="jit/jit.js"></script>
+
+<script language="javascript" type="text/javascript" src="current_dataset.js"></script>
+<script language="javascript" type="text/javascript" src="appstore.js"></script>
+</head>
+
+<body onload="init();">
+
+    <div id="infovis"></div>  
+	
+            <input type="radio" id="r-sq" name="layout" checked="checked" value="left"  style="display: none;"/>
+     
+            <input type="radio" id="r-st" name="layout" value="top" style="display: none;" />
+      
+            <input type="radio" id="r-sd" name="layout" value="bottom"  style="display: none;"/>
+        
+
+<a id="back" href="#" style="display: none;" class="theme button white"></a>
+
+        
+
+<p align="left">Show:    
+<input type="radio" id="myapps" name="layout" value="My Apps" /><label for="myapps">Local Apps </label>
+       <input type="radio" id="appstore" name="layout" value="App Store" />&nbsp;&nbsp;<label for="appstore">TriniDAT's Online Application Store </label>&nbsp;&nbsp;<img src="li.gif" style="vertical-align:middle;">&nbsp;<a id="upload" href="#" class="theme button white">Upload 'n Sell Your App!</a>&nbsp;<img src="li.gif" style="vertical-align:middle;">&nbsp;<a id="register" href="#" class="theme button white" style="align: right;">Register</a>
+       </p>
+
+<div id="right-container" style="display: none;">
+
+<div id="inner-details" style="display: none;"></div>
+
+</div>
+
+<div id="log"></div>
+</div>
+</body>
+</html>

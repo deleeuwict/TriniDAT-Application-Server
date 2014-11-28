@@ -1,0 +1,6 @@
+﻿Public Enum TriniDATLinkType
+    LINK_TYPE_RELATIVE = 1
+    LINK_TYPE_ABSOLUTE = 2
+    LINK_TYPE_HASHCODE = 3
+    LINK_TYPE_OTHER = 4
+End Enum

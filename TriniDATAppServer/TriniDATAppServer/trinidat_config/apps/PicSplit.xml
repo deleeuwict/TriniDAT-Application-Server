@@ -1,0 +1,15 @@
+<app name="Picture Parts Example" interface="false" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="247" fullurl="http://127.0.0.1/5">
+  <mps>
+    <mp url="/PicturizedWebservice" description="Serial Webservice Request" enablestats="true" fullurl="http://127.0.0.1/5/PicturizedWebservice/">
+      <jclass id="JTextToSpeech" />
+      <jclass id="JPicSplitterA" />
+      <jclass id="JPicSplitterB" />
+      <jclass id="JPicSplitterC" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPicSplitterA\JPicSplitterA\bin\Release\JPicSplitterA.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPicSplitterB\JPicSplitterB\bin\Release\JPicSplitterB.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPicSplitterC\JPicSplitterC\bin\Release\JPicSplitterC.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+</app>

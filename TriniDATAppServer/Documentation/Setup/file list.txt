@@ -1,0 +1,10 @@
+TriniDAT App required files:
+
+{EXEPATH}\TriniDATServerLicense.dll
+{EXEPATH}\trinidat_config\simon\commands.xml
+{EXEPATH}\trinidat_config\simon\translation.xml
+{EXEPATH}\trinidat_config\static\*	
+{EXEPATH}\trinidat_config\builder\allconditions.xml
+{EXEPATH}\trinidat_config\builder\allfunctions.xml
+{EXEPATH}\trinidat_config\builder\alloperators.xml
+{EXEPATH}\trinidat_config\builder\allprototypes.xml

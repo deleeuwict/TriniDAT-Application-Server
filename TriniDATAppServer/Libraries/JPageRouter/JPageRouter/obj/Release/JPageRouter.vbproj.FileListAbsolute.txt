@@ -1,0 +1,13 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\bin\Release\JPageRouter.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\bin\Release\JPageRouter.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\bin\Release\JPageRouter.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\JPageRouter.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\JPageRouter.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\JPageRouter.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPageRouter\JPageRouter\obj\Release\JPageRouter.pdb

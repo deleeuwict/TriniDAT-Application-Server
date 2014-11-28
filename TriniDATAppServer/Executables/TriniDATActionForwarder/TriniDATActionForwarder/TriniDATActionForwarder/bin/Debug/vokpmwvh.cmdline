@@ -1,0 +1,1 @@
+﻿/t:exe /main:MyClass /utf8output /R:"System.dll" /out:"C:\temp\test.exe" /D:DEBUG=1 /debug+ /optimize  "C:\Users\gertjan\AppData\Local\Temp\src.txt"

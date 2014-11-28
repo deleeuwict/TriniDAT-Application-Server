@@ -1,0 +1,8 @@
+twitter.send "/conversation" "GertJan" "JTextToSpeech" "SPEAKER" "SAY" "this is my uber fuhrer message system speaking"
+			sender recipient type dir att
+			
+cnn.send "" "JWebBrowser" "JBrowseRequest" "GetText" "http://edition.cnn.com"
+cnn.send "" "JWebBrowser" "JBrowseRequest" "GetLinks" "http://edition.cnn.com"
+
+cnn.send "" "JWebBrowser" "JBrowseRequest" "GetLinks" "http://edition.cnn.com" "JCNNDemo"
+cnn.send "" "JWebBrowser" "JBrowseRequest" "GetLinks" "http://www.bing.com" "JCNNDemo"

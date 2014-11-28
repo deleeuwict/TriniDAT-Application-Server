@@ -1,0 +1,63 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\bin\Release\JWPADService.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\bin\Release\JWPADService.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\bin\Release\JWPADService.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\JWPADService.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\JWPADService.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\JWPADService.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWPADService\obj\Release\JWPADService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\TrinidadServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\TrinidadServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\TrinidadServerTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\BlingSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWPADService\JWPADService\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\obj\Release\JWPADService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\TriniDATServerTypes.xml

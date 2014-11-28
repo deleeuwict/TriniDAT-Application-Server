@@ -1,0 +1,168 @@
+<app name="Test" interface="false" author="Gerrit de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="649" id="2" fullurl="http://127.0.0.1/1">
+  <paymentdata>
+    <paymentgateway>1</paymentgateway>
+    <paymenthandle>2</paymenthandle>
+  </paymentdata>
+  <mps>
+    <mp url="/ticket/" enablestats="true" runtimecount="1" fullurl="http://127.0.0.1/1/ticket/">
+      <jclass id="JTicketMaster"></jclass>
+    </mp>
+    <mp url="/webstorage/" description="shared files" enablestats="true" maxthreadlifetime="30" runtimecount="217" fullurl="http://127.0.0.1/1/webstorage/">
+      <jclass id="JFileserver" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll" name="Module 1 : JFileserver.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/disqus" description="Random DISQUS thread" interactiveconsolefeatures="true" enablestats="true" maxthreadlifetime="60" fullurl="http://127.0.0.1/1/disqus/">
+      <jclass id="JTextToSpeech" />
+      <jclass id="JDISQUSThread" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JDISQUSThread\JDISQUSThread\bin\Release\JDISQUSThread.dll" name="Module 1 : JDISQUSThread.dll" />
+      </dependencies>
+    </mp>
+    <mp id="twitter" url="/twitter" description="tweetfeed" interactiveconsolefeatures="true" enablestats="true" maxthreadlifetime="60" fullurl="http://127.0.0.1/1/twitter/">
+      <jclass id="JTextToSpeech" />
+      <jclass id="JSocialNameVerify" />
+      <jclass id="JSocialAccountEmailChecker" />
+      <jclass id="JTwitterFeedSearch" />
+      <jclass id="JTwitterFeedUsefulParser" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Release\JSocialNameVerify.dll" name="Module 1 : JSocialNameVerify.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.dll" name="Module 2 : JTwitterFeedSearch.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedUsefulParser\JTwitterFeedUsefulParser\bin\Release\JTwitterFeedUsefulParser.dll" name="Module 3 : JTwitterFeedUsefulParser.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JSocialAccountEmailChecker\JSocialAccountEmailChecker\bin\Release\JSocialAccountEmailChecker.dll" name="Module 4 : JSocialAccountEmailChecker.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/jnetwork" description="network stuff" enablestats="true" maxthreadlifetime="60" fullurl="http://127.0.0.1/1/jnetwork/">
+      <jclass id="JNetwork" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JNetwork\JNetwork\bin\Release\JNetwork.dll" name="Module 1 : JNetwork.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/triggerkeywords/" description="Google books keyword extracter" enablestats="true" runtimecount="19" fullurl="http://127.0.0.1/1/triggerkeywords/">
+      <jclass id="JGoogleBooksKeywords" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JGoogle\JGoogle\bin\Release\JGoogle.dll" name="Module 1 : JGoogle.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATHTTPBrowser\TriniDATHTTPBrowser\bin\Release\TriniDATHTTPBrowser.dll" name="Module 2 : TriniDATHTTPBrowser.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATPrimitiveXMLDOM\TriniDATPrimitiveXMLDOM\bin\Release\TriniDATPrimitiveXMLDOM.dll" name="Module 3 : TriniDATPrimitiveXMLDOM.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\bin\Release\TriniDATBrowserEvent.dll" name="Module 4 : TriniDATBrowserEvent.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/computer/" description="local client services" enablestats="true" runtimecount="113" fullurl="http://127.0.0.1/1/computer/">
+      <jclass id="JComputer" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JComputer\JComputer\bin\Release\JComputer.dll" name="Module 1 : JComputer.dll" />
+      </dependencies>
+    </mp>
+    <mp id="cnn" url="/demo/cnn/" description="Live CNN demo" enablestats="true" interactiveconsolefeatures="true" runtimecount="2568" fullurl="http://127.0.0.1/1/demo/cnn/">
+      <jclass id="JWebBrowser" />
+      <jclass id="JCNNDemo" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATHTTPBrowser\TriniDATHTTPBrowser\bin\Release\TriniDATHTTPBrowser.dll" name="Module 1 : TriniDATHTTPBrowser.dll" />
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATPrimitiveXMLDOM\TriniDATPrimitiveXMLDOM\bin\Release\TriniDATPrimitiveXMLDOM.dll" name="Module 2 : TriniDATPrimitiveXMLDOM.dll" />
+      </dependencies>
+      <action id="link iterator" jclass="(global)" filterurl="/demo/cnn/" triggercontext="stats" triggeraction="forwardobject" option="ignorerevisions;ignorevaluedups">
+        <parameters>
+          <parameter usertitle="Forward.URL" prototypeid="MappingPoint" value="$MPURL"></parameter>
+          <parameter usertitle="Forward.Sender" prototypeid="String" value="JCNNDemo"></parameter>
+          <parameter usertitle="Forward.To" prototypeid="String" value="JWebBrowser"></parameter>
+          <parameter usertitle="Forward.Object.Type" prototypeid="String" value="JBrowseRequest"></parameter>
+          <parameter usertitle="Forward.Object.Directive" prototypeid="String" value="GetLinks"></parameter>
+          <parameter usertitle="Forward.Object.Attachment" prototypeid="String" value="$STATVALUE"></parameter>
+        </parameters>
+        <statdropconditions>
+          <statdropcondition operatorid="0" usertitle="cnn link" name="link"></statdropcondition>
+        </statdropconditions>
+      </action>
+    </mp>
+    <mp url="/wpadservice/" description="proxy configuration" enablestats="true" runtimecount="1014" fullurl="http://127.0.0.1/1/wpadservice/">
+      <jclass id="JWPADService" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.dll" name="Module 1 : JWPADService.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/{appname}/facebook/" fullurl="http://127.0.0.1/1/{appname}/facebook/">
+      <jclass id="JFacebookMain" />
+      <dependencies>
+        <dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JGoogle\JGoogle\bin\Release\JGoogle.dll" name="Module 1 : JGoogle.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+  <!-- speak twitter message -->
+  <action id="my action" jclass="(global)" filterurl="/twitter/" triggercontext="stats" triggeraction="speakstatvalue">
+    <parameters>
+      <parameter prototypeid="String" value="todo"></parameter>
+    </parameters>
+    <statdropconditions trymatchall="false">
+      <statdropcondition operatorid="0" usertitle="message" name="message"></statdropcondition>
+    </statdropconditions>
+  </action>
+  <!-- log twitter message -->
+  <action id="my action" jclass="(global)" filterurl="/twitter/" triggercontext="webservice" triggeraction="consolelog">
+    <parameters>
+      <parameter prototypeid="String" value="todo"></parameter>
+    </parameters>
+    <statdropconditions>
+      <statdropcondition operatorid="0" usertitle="message" name="message"></statdropcondition>
+    </statdropconditions>
+  </action>
+  <action id="my action" jclass="(global)" filterurl="/twitter/" triggercontext="stats" triggeraction="speakstatnamevalue">
+    <parameters>
+      <parameter prototypeid="String" value="todo"></parameter>
+    </parameters>
+    <statdropconditions trymatchall="false">
+      <statdropcondition operatorid="14" usertitle="Simon likes Europe" name="(any)" multimatch="and">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".nl,.be,.de,.se,.gr,.dk,.ch,.sk,.kr,.bg,.co.uk" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Asia" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".jp,126.com,163.com,.cn,.vn" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Middle-East" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".in,.ae,.tr,.co.il" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Oceania" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".au,.id,.nz" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes South-America " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".br,.ar" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Mid terrean Sea" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".es,.it,.fr" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes North-America " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".edu,.ca,.com" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon says hello" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".za" />
+      </statdropcondition>
+    </statdropconditions>
+  </action>
+  <action id="my action" jclass="(global)" filterurl="/seeds/tweetfeed/" triggercontext="webservice" triggeraction="consolelog">
+    <parameters>
+      <parameter prototypeid="MappingPoint" value="/random/disqus"></parameter>
+    </parameters>
+    <statdropconditions trymatchall="false">
+      <statdropcondition operatorid="14" usertitle="Europa " name="(any)" multimatch="and">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".nl,.be,.de,.se,.gr,.dk,.ch,.sk,.kr,.bg,.co.uk" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Azië " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".jp,126.com,163.com,.cn,.vn" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Midden-Oosten " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".in,.ae,.tr" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Oceanië " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".au,.id,.nz" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Zuid-Amerika " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".br,.ar" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Mediterraan " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".es,.it,.fr" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Noord-Amerika " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".edu,.ca,.com" />
+      </statdropcondition>
+    </statdropconditions>
+  </action>
+</app>

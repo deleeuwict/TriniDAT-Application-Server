@@ -1,0 +1,73 @@
+How To: Interactively Debug Your App's JSON Objects Within TriniDAT's Server Console Window.
+by GertJan de Leeuw @ De Leeuw ICT.
+
+
+Overview:
+
+A developer will want to test his messaging features in an interactive fashion for optimal results. Just like real-time software debugging, TriniDAT allows real-time dumping and editing of any object passed between mapping points, including internal functions. 
+
+
+TriniDAT Object Debugger Features:
+	
+* Easy testing of your application's internal messaging system;
+* Interactively modify JSON objects at the server console;
+* Real-time application suspension and resumption;
+* Elimates the need for an attached .NET debugger.
+
+
+Technical Overview:
+
+All passed objects in the system are of the 'JSONObject' class. In order to make an object subject to the TriniDAT debugger console, a user must call the 'debugObject' method on a JSON object.
+
+In Code:
+
+	Example:
+
+	'Purpose: Send object to console for debugging.
+
+	JSONMessage = New JSONObject
+	JSONMessage.Sender = Me   'Me = Your JTriniDATWebService inheriting class.
+	JSONMessage.ObjectType = "MyObjectType"
+	JSONMessage.Directive = "My directive"
+	JSONMessage.Attachment = "My directive body's text"
+	
+	'Put this object in debug mode. This will automatically post it back to the server console.
+	    If JSONMessage.debugObject() Then
+			'All changes successfully applied. Resume execution.
+			
+        Else
+			' 'DROPSOCKET' or 'LEAVE' command was issued by the debuggee.
+     
+	'...
+
+Console:
+	
+	Example: Change The Object's Fields.
+			
+		<incoming object ...>
+	
+		After you see or hear the incoming object notification, enter the following commands to manually edit this object:
+		
+		FIELD "Directive" "My new directive"
+		
+		FIELD "ObjectType" "MyNewObjectType"
+		
+		FIELD "Attachment" "My new directive body's text"
+		
+		WRITEOBJ
+		
+		Command Usage Notice:
+		
+		The 'FIELD' command directly modifies the object's internal JSON structure. The object properties to be modified are the second and third parameter of the FIELD command. To see the object state at any time, simply issue the DUMPJSON command. To see everything about an object, issue DUMPALL. 
+	
+		The 'WRITEOBJ' command directly writes a modified JSON object back to the socket, resumes application execution, and will end the 'DEBUG_OBJECT' context. 
+		
+		You can issue a 'DROPSOCKET' or 'LEAVE' command to terminate debugging sessions without writing changes made. The source application will directly unfreeze itself and the 'debugObject' method will return FALSE.
+	
+	
+More Information:
+
+	Type 'DEBUGDIC' at the server console for the console 'DEBUG_OBJECT' context commandlist. You can also issue any globally declared SIMON command handlers such as 'HELP' and 'EXPLAIN' in the 'DEBUG_OBJECT' state. 
+
+Note for SIMON Command Handler extension developers:
+	The JSON object being debugged is also available in custom SIMON command handler (using the SimonsInfo.currentDebuggingFrame property). A detailed example of this, however, is beyond the scope of this article.

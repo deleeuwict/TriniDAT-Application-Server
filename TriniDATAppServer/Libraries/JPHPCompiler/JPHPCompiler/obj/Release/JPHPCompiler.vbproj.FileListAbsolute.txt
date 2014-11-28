@@ -1,0 +1,44 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\JPHPCompiler.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\JPHPCompiler.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\JPHPCompiler.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\PhpNetCore.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\JPHPCompiler.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\JPHPCompiler.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\JPHPCompiler.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JPHPCompiler\obj\Release\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\JPHPCompiler.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\JPHPCompiler.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\PhpNetPDOSQLServer.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\JPHPCompiler.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\JPHPCompiler.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\obj\Release\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\JPHPCompiler.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JPHPCompiler\JPHPCompiler\bin\Release\TriniDATServerTypes.xml

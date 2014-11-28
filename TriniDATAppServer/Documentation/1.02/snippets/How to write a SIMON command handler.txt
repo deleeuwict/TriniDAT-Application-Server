@@ -1,0 +1,290 @@
+
+How to write SIMON command handlers for use in TriniDAT Application Server environment.
+by GertJan de Leeuw @ De Leeuw ICT.
+
+
+Overview:
+
+Simon command handlers (SCH) is a TriniDAT Developer Extension that allows your users to interaction with your app's specific commands. A developer of a SCH can:
+
+* Extend the TriniDAT server console default command-set with custom commands;
+
+* Print (colored) text in the server console;
+
+* Generate context based spoken text;
+
+* Empower existing mapping point implementations with highly interactive & user-friendly administrative front-ends.
+
+A SCH implementation is especially useful to provide your users a very attractive interface where highly complex data operations and fast user interaction can seamlessly be blended together. For example, a SCH might ask a user to provide paramers and then may automatically trigger a set of realtime data operations. 
+
+The overall benefit is that a command handler is not only able to output status messages but may also speak text with the built-in text-to-speech engine, which by the nature of TriniDAT's console, is always in context and highly useful for a human operator of semi-automated data-mining technology.
+
+
+Technical overview:
+
+A SCH is a basic .NET DLL that declares functions (a command handler) that match the exact entered command name. Each command handler is passed a parameter list that the user entered after the command-name. A SCH is required to pass back state messages according to the validity of the command entered. In this way the system may assist the users future commands by providing extra (spoken) status messages.
+
+For example, a SCH might inform the console that a parameter is missing. Consequently, the system will print an error message or speak a configured text message (more about this later on). Thus, you can regulate different situations by passing back status codes. 
+For example, in a situation of an incorrect parameter list you can simply return a request to display help information and the user will be shown the help entry by your command name. A command that returns any variation of the VALIDCOMMAND_* codes (see source code examples) will automatically be added to the user's command pick list.
+
+
+In Code:
+
+This example extends the TriniDAT SIMON console with a LASTWEEK command. As it's name suggests, it will print the last week number to the TriniDAT server console.
+
+Two things need to be done for your SCH to become available in TriniDAT. 
+
+First you need to build a DLL with the command handler code. 
+
+Second, you'll need to add your command  handler to the internal command list located in <TriniDAT Application Path>\trinidat_config\simon\commands.xml (see below for more information).
+
+Creating a Command Handler From Scratch:
+
+1. Create a new .NET Class Library.
+
+2. In your code project, add references to TrinidadServerTypes.dll and SimonTypes.dll
+   
+3. Create the following class:
+
+		Imports SimonTypes
+		Imports TrinidadServerTypes
+		
+		Public Class MySimonDateCommands
+
+			Private ConsoleInfo As SimonsSession
+
+			Public Sub New(ByVal info As SimonsSession)
+				'SimonsSession is the gateway to the console. Therefore store this var in class wide scope.
+				Me.ConsoleInfo = info
+			End Sub
+			
+		End Class
+
+4. Note that a command-handlers constructor must exactly be declared as shown above. Always store the passed SimonsSession variable in class scope in order to access the console later.
+		
+5. Declare the new command handler in class MySimonCommands:
+
+
+	'Rules: 
+	'		1) If your command handler does not require any parameter you still need to declare as shown below.
+	'		2) All command handler function names must have UPPERCASE names.
+	'		3) Always return an appropriate SimonsReturnValue.* value, according to your command's validity state.
+	
+	Public Function LASTWEEK(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+        
+		'Print to console.
+		Me.ConsoleInfo.AddConsoleLine("Last week's date: " &  DateAdd(DateInterval.Day, -7, Now).ToString )
+
+		'Return success.
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+		
+
+		
+How To Print Console Lines With Colors:
+
+	Note: Your need to add a reference to System.Drawing to make this code work.
+	
+	Imports System.Drawing
+	
+	'...
+	
+	Public Function PING(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+        
+		'Print colored text.
+		Me.ConsoleInfo.AddConsoleLine("PONG", Color.Red)
+		Me.ConsoleInfo.AddConsoleLine("PANG", Color.White)
+
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+		
+
+Notes:
+
+		Command-handlers run in the same thread as the GUI, therefore do not call GUI functions such as SimonsSession::AddConsoleLine() in multi-threaded code. Functions to print text from a multi-threaded command handler is currently unsupported.
+	
+		
+Installing new command handlers:
+
+	1. Open the SIMON command-list file <TriniDAT Application Path>\trinidat_config\simon\commands.xml
+		
+	2. A command-handler is declared in a new XML node having the following format.
+	
+	<command action="<COMMAND_NAME>" completed="<OPTIONAL: TEXT TO SPEAK AFTER SUCCES STATE>" context="<APPLICATION_CONTEXT>" container="<CLASSLIBRARYNAME>.<CLASSNAME>" explain="<SPOKEN HELP>" help="<OPTIONAL: HELP ENTRY TEXT>"  module="<FULL PATH TO COMMAND HANDLER DLL>"/>	
+		
+	The COMMAND node. 
+	
+	Attribute definitions:
+	
+		Action: The name of both the command-handler and the command to be typed in by the user. Must be in UPPERCASE notation.
+		Context: the console state from where your command-handler will be invoked.
+			
+			The server may switch console mode according to certain events e.g. incoming debug requests. 
+			
+			The current console modes in use are as follows:
+		
+			"all":	Command-handler can be called from any console state.
+			
+			SimonTypes.SimonConsoleContext.APPSERVER (alias "server" in XML file) : 	The console is in server-mode.
+			
+			SimonTypes.SimonConsoleContext.DEBUG_CONTEXT_DEBUGOBJECT (alias "debug_object" in XML file) : 	The console is in object debugging mode.
+		
+			Additional notes: A developer might choose to extend TriniDAT's internal command-set with self created debugging commands since the debugging command space can be fully customized. Custom command-handlers are free to attach themselves to any server context; they are not bound to particular server / user states.
+	
+		Completed: Optional. Text to be spoken by the user-interface when the user succesfully completes the command. ( SimonsReturnValue.VALIDCOMMAND was reported)
+	
+		Container: The command-handler's full class library name (assembly name), DOT, the classname where the command handler resides as a function. The function name must be UPPERCASE and must have exactly the name as given in the ACTION attribute.
+		
+		Explain: Optional. Text to speak when this command name is issued in a EXPLAIN command.
+		
+		Help: Optional. Textual information that will be displayed when the user issues any HELP commands. When this attribute is void the command will not be displayed to the user. 
+				
+		Module: The full path to the .NET assembly DLL file.
+		
+		
+	Command XML Declaration Example:
+	
+	Imagine the above's LASTWEEK code example was compiled and the output .NET assembly's name is 'MySimonCommandsLibrary'. The file generated by the compiler is C:\trinidat\simonlibraries\MySimonCommandsLibrary.dll. The class containing the command handler functions is named 'MySimonDateCommands'.
+
+	To make the LASTWEEK command invokable by the console user it will need to be declared as follows in your <TriniDAT Application Path>\trinidat_config\simon\commands.xml file.
+		
+	<command action="LASTWEEK" context="all"  help="Displays last week's date"  container="MySimonCommandsLibrary.MySimonDateCommands" completed="Just displayed last week's date to you." module="C:\trinidat\simonlibraries\MySimonCommandsLibrary.dll"/>	
+	
+	The command should succesfully trigger when LASTWEEK is entered in the TriniDAT console window.
+	
+	
+Parameters: How To Validate Parameter Lists.
+	
+	Note: Your need to add a reference to System.Drawing to make this code work.
+	
+    Public Function MYCOMMAND(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+        'Return current console mode.
+        
+		'Note: nested quotings may be escaped by \"
+		
+		'Valdate argument length.
+			If ParamCount < 1 Then
+				Me.ConsoleInfo.AddConsoleLine("Need 2 parameters my friend!", Color.Red)
+				Return SimonsReturnValue.INVALIDCOMMAND_PARAMETERS 
+			End If
+		
+		Me.ConsoleInfo.AddConsoleLine("The 1st parameter is '" & Param(0) & "'")
+		Me.ConsoleInfo.AddConsoleLine("The 2nd parameter is '" & Param(1) & "'")
+		
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+		
+	Demo output: The 1st parameter is 'A'
+				 The 2nd parameter is 'B'
+			
+			
+Feedback: How To Report Back Invalid Parameter Lists.
+
+	Public Function HELLO(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+
+			If Param(0) <> "WORLD" Then
+				'Prints error message to caller.
+				Return SimonsReturnValue.INVALIDCOMMAND_PARAMETERS 
+			End If
+	
+		'Print console.
+		Me.ConsoleInfo.AddConsoleLine("HELLO " & Param(0))
+
+		'Return success.
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+
+	
+Feedback: How To Report Internal Errors.
+
+		Public Function QUICKDIVIDER(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+
+			Dim X as Integer
+			
+			Try	
+				
+				X = CLng(Param(0)) / 10
+				
+			Catch ex As Exception
+				'User's parameter was not decimal.
+				Return SimonsReturnValue.GENERAL_ERROR
+			End Try
+
+		'Print console.
+		Me.ConsoleInfo.AddConsoleLine(X.ToString)
+			
+		'Return success.
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+	
+	
+Feedback: How To Show A Command's Help Entry.
+
+		Public Function MYCOMMAND(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+
+			if ParamCount= -1 then
+				'No work. 
+				'Now you can return INVALIDCOMMAND_PARAMETERS or VALIDCOMMAND_SHOWHELP for assistance.
+				 Return SimonsReturnValue.VALIDCOMMAND_SHOWHELP  'Display command syntaxis to user.
+			End If
+
+			If ParamCount< 1 then
+				'Missing attribute.
+				 Return SimonsReturnValue.INVALIDCOMMAND_PARAMETERS  'Return error.
+			End If
+			
+		'Return success.
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+		
+		
+Retrieving States: How To Obtain The Current Context.
+
+    Public Function MYCOMMAND(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+        
+		'Return current console mode.
+        Me.ConsoleInfo.AddConsoleLine("The server console is now functioning in " & Me.SimonsInfo.Context.asXMLIdentifierString & " mode.")
+		
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+	
+	Demo output: The server console is now functioning in server mode.
+	
+Retrieving States: How To Obtain The Current SIMON Voice:
+ 
+  Imports System.Speech
+  
+  '...
+  
+  Public Function MYCOMMAND(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+  
+  	Dim ConsoleVoice As System.Speech.Synthesis.SpeechSynthesizer
+	
+	'Obtain the current console voice.
+	ConsoleVoice = Me.ConsoleInfo.Speaker
+	
+	'<Your TTS related code here>
+	'...
+	
+Retrieving States: How To Server Configuration.
+
+    Public Function MYSERVERSTATE(ByVal Param() As String, ParamCountas Integer) As SimonsReturnValue
+    
+	'Print server state.
+	 Me.ConsoleInfo.AddConsoleLine("Server IP address: " & Me.ConsoleInfo.ObjectServer & " Port: " & Me.ConsoleInfo.ObjectServerPort.ToString)
+		
+		Select Case Me.ConsoleInfo.ServerMode	'Read-only.
+		
+			Case TrinidadServerTypes.TRINIDAT_SERVERMODE.MODE_DEVELOPER
+				Me.ConsoleInfo.AddConsoleLine("Developer mode.")
+				
+			Case TrinidadServerTypes.TRINIDAT_SERVERMODE.MODE_PRODUCTION
+				Me.ConsoleInfo.AddConsoleLine("Production mode.")
+				
+		End Select
+		
+        Return SimonsReturnValue.VALIDCOMMAND
+    End Function
+	
+	Demo output: Server IP address: 192.168.0.11 Port: 80
+				 Developer mode.

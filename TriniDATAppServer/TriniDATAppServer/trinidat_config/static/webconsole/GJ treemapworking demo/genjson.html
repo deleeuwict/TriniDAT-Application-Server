@@ -1,0 +1,82 @@
+
+<script language="Javascript">
+
+var mp1_data = new Object();
+mp1_data.$area = 270;
+mp1_data.url ="http://www.deleeuwict.nl";
+
+var app1_mp1 = new Object();
+
+app1_mp1.children = new Object();
+app1_mp1.data = mp1_data;
+app1_mp1.id = "app1mp1";
+app1_mp1.name = "app1 mp 1";
+
+var app1_mp2 = new Object();
+
+app1_mp2.children = new Object();
+app1_mp2.data = mp1_data;
+app1_mp2.id = "app1mp2";
+app1_mp2.name = "app1 mp 2";
+
+var app1_data = new Object();
+app1_data.$area = 270;
+app1_data.url ="http://www.deleeuwict.nl";
+
+var app1 = new Object();
+app1.data = app1_data;
+app1.id = "1";
+app1.name = "app 1";
+app1.children = new Array(app1_mp1,app1_mp2);
+
+
+//=====================================================================
+
+mp1_data.$area = 270;
+mp1_data.url ="http://www.deleeuwict.nl";
+
+var app2_mp1 = new Object();
+
+app2_mp1.children = new Object();
+app2_mp1.data = mp1_data;
+app2_mp1.id = "app2mp1";
+app2_mp1.name = "app2 mp 1";
+
+var app2_mp2 = new Object();
+
+app2_mp2.children = new Object();
+app2_mp2.data = mp1_data;
+app2_mp2.id = "app2mp2";
+app2_mp2.name = "app2 mp 2";
+
+var app2_data = new Object();
+app2_data.$area = 270;
+app2_data.url ="http://www.deleeuwict.nl";
+
+var app2 = new Object();
+app2.data = app2_data;
+app2.id = "2";
+app2.name = "app 2";
+app2.children = new Array(app2_mp1,app2_mp2);
+
+
+//=====================================================================
+
+var all_apps = new Array();
+all_apps[0] = app1;
+all_apps[1] = app2;
+
+
+var root_node = new Object();
+root_node.children = all_apps;
+root_node.id = "0";
+root_node.name = "Applications";
+
+console.log(root_node);
+alert(root_node);
+
+var json = JSON.stringify(root_node);
+
+document.write(json + "<BR>" + "<BR>var dataset_json = unescape(\"" + escape(json) + "\");");
+
+</script>

@@ -1,0 +1,10 @@
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\bin\Release\BlingSockets.dll
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\bin\Release\BlingSockets.pdb
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\bin\Release\BlingSockets.xml
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\BlingSockets.Resources.resources
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\BlingSockets.dll
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\BlingSockets.xml
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingSockets\BlingSockets\obj\Release\BlingSockets.pdb

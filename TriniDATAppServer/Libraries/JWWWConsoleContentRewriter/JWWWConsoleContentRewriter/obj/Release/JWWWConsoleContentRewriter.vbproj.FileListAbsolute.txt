@@ -1,0 +1,26 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\obj\Release\JWWWConsoleContentRewriter.pdb

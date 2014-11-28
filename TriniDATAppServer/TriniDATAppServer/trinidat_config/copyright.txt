@@ -1,0 +1,4 @@
+﻿Trinidad Application Server
+De Leeuw ICT
+Copyright © 2013-2015 GertJan de Leeuw
+gertjan@123qlnet.com

@@ -1,0 +1,9 @@
+By default (When form encoding method is not defined), all post data is available through the key 
+"alldata" only. The length of the POST data is available in the key "alldata_length".
+
+When your set your form encoding type to 'application/x-www-form-urlencoded', your form fields will become accessable as ordinary dictionary keys, passed as function argument "AllParameters".
+
+
+To make custom POST functions trigger, your form encoding type must be declared as "application/x-www-form-urlencoded".
+
+

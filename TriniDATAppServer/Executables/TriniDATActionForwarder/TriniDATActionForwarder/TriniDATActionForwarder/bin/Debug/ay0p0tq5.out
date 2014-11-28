@@ -1,0 +1,11 @@
+﻿C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Executables\TriniDATActionForwarder\TriniDATActionForwarder\TriniDATActionForwarder\bin\Debug> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe" /t:exe /main:Module1.MyClass /utf8output /R:"System.dll" /out:"C:\temp\test.exe" /D:DEBUG=1 /debug+ /optimize  "C:\Users\gertjan\AppData\Local\Temp\src.txt"
+
+
+Microsoft (R) Visual Basic Compiler versie 10.0.30319.233
+Copyright (c) Microsoft Corporation. Alle rechten voorbehouden.
+
+vbc : error BC30420: Sub Main is niet gevonden in Module1.MyClass.
+C:\Users\gertjan\AppData\Local\Temp\src.txt(3) : error BC30183: Het sleutelwoord is niet geldig als id.
+
+Public Class MyClass
+             ~~~~~~~

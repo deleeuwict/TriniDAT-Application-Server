@@ -1,0 +1,57 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\bin\Release\JFileserver.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\bin\Release\JFileserver.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\bin\Release\JFileserver.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\JFileserver.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\JFileserver.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\JFileserver.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\JFileserver\obj\Release\JFileserver.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\JFileserver\JFileserver\bin\Release\BlingBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\obj\Release\JFileserver.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\TriniDATServerTypes.xml

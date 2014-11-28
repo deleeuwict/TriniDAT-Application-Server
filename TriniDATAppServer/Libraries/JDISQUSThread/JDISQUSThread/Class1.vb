@@ -1,0 +1,112 @@
+﻿Option Compare Text
+Option Explicit On
+
+'TriniDAT Data Server - Webservice Sample Code for COPY/PASTE purposes.
+'(c) 2013 GertJan de Leeuw | De Leeuw ICT | www.deleeuwict.nl | Visit the Developer Community Forum for more code examples. 
+
+Imports System.Net.Sockets
+Imports System.Text
+Imports System.Net
+Imports System.Collections.Specialized
+Imports TriniDATServerTypes
+
+
+Public Class JHelloWorld
+    Inherits JTriniDATWebService
+
+    Private my_mapping_point As MappingPointBootStrapData
+
+    Public Overrides Function DoConfigure() As Boolean
+
+        'Create local inbox to receive mapping point objects.
+        Dim my_mailbox As TriniDATObjectBox_EventTable
+
+        my_mailbox = New TriniDATObjectBox_EventTable
+        my_mailbox.event_inbox = AddressOf Me.myInbox
+        getMailProvider().Configure(my_mailbox, False)
+
+        'Set-up a bare bone HTTP event table.
+        Dim my_http_events As TriniDATHTTP_EventTable
+
+        my_http_events = New TriniDATHTTP_EventTable
+        my_http_events.event_onget = AddressOf OnGet
+        my_http_events.event_onpost = AddressOf OnPost
+
+        Return getIOHandler().Configure(my_http_events) 'True.
+    End Function
+
+    Public Overrides Function OnRegisterWebserviceFunctions(ByVal servers_function_table As TriniDATServerFunctionTable) As Boolean
+
+        Dim my_get_function As TriniDAT_ServerGETFunction
+        Dim myget_parameter_spec As TriniDAT_ServerFunctionParameterSpec
+
+        'set up dynamic sub-mapping point /helloworld.
+        my_get_function = New TriniDAT_ServerGETFunction(AddressOf ShowHelloWorld)
+        my_get_function.FunctionURL = Me.makeRelative("/helloworld")
+
+        'Require this URI to be called with at least one parameter.
+        myget_parameter_spec = New TriniDAT_ServerFunctionParameterSpec()
+        myget_parameter_spec.ParameterName = "myrequiredparameter"
+        myget_parameter_spec.ParameterType = "String"
+        myget_parameter_spec.Required = True 'default.
+
+        'Add Parameter to the new GET function spec.
+        my_get_function.Parameters.Add(myget_parameter_spec)
+
+        'Add this Function to the server's internal HTTP traffic routing-table.
+        servers_function_table.Add(my_get_function)
+
+        Return True 'Success.
+    End Function
+
+    Public Sub ShowHelloWorld(ByVal parameter_list As TriniDATServerTypes.TriniDATGenericParameterCollection, ByVal AllParameters As System.Collections.Specialized.StringDictionary, ByVal Headers As System.Collections.Specialized.StringDictionary)
+        '/helloworld/ dedicated uri code handler. 
+
+        Me.getIOHandler().addOutput("Hello world @ a dedicated URI.")
+        Me.getIOHandler().addOutput("<BR>")
+        Me.getIOHandler().addOutput("Value of myrequiredparameter = " & parameter_list.getById("myrequiredparameter").ParameterValue)
+
+    End Sub
+
+    Public Function myInbox(ByRef msg As JSONObject, ByVal from_url As String) As Boolean
+
+        'Catch mapping point startup messages.
+        If msg.ObjectTypeName = "JAlpha" And msg.Directive = "MAPPING_POINT_START" Then
+
+            'Store all mapping point config locally.
+            Me.my_mapping_point = CType(msg.Attachment, MappingPointBootstrapData)
+            Return False
+        End If
+
+        'Catch mapping point shutdown messages.
+        If msg.ObjectTypeName = "JOmega" And msg.Directive = "MAPPING_POINT_STOP" Then
+
+            Return False
+        End If
+
+        Return False
+    End Function
+
+    Public Sub OnGet(ByVal HTTP_URI_Path As String, ByVal HTTP_URI_Parameters As StringDictionary, ByVal HTTP_URI_Headers As StringDictionary)
+
+        'Your GET code handler goes here.
+        Me.getIOHandler().addOutput("Hello world @ GET handler.")
+
+        'Add JTextToSpeech to your mapping point dependency list to make this object exchange example work:
+        'Dim speak_request As JSONObject
+
+        'speak_request = New JSONObject
+        'speak_request.ObjectType = "JTextToSpeech"
+        'speak_request.Directive = "SPEAK"
+        'speak_request.Attachment = "Somebody just visited my website, isn't that just awefully wonderful."
+        'Me.getMailProvider().send(speak_request, Nothing, "JTextToSpeech")
+
+    End Sub
+
+    Public Sub OnPost(ByVal HTTP_URI_Path As String, ByVal HTTP_URI_Parameters As StringDictionary, ByVal HTTP_URI_Headers As StringDictionary)
+
+        'Your POST code handler goes there.
+        Me.getIOHandler().addOutput("Hello world @ POST handler.")
+    End Sub
+
+End Class

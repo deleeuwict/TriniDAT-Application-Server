@@ -1,0 +1,104 @@
+<app name="Test" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="deleeuwict">
+		
+		<mps>
+			<mp url="/ticket/" enablestats="true">
+				<jclass id="JTicketMaster"></jclass>
+			</mp>
+			
+			<mp url="/webstorage/" description="shared files" enablestats="true" maxthreadlifetime="30">
+				<jclass id="JFileserver"/>
+				
+				<dependencies>
+					<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll"/>				
+				</dependencies>				
+
+			</mp>
+			
+			<mp url="/console/" description="shared files" enablestats="true" maxthreadlifetime="10">
+				<jclass id="JFileserver"/>
+				<jclass id="JWWWConsoleContentRewriter"/>
+				
+				<dependencies>
+					<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JFileserver\JFileserver\bin\Release\JFileserver.dll"/>				
+					<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWWWConsoleContentRewriter\JWWWConsoleContentRewriter\bin\Release\JWWWConsoleContentRewriter.dll"/>				
+				</dependencies>				
+			</mp>
+		
+			<mp url="/seeds/tweetfeed" description="tweetfeed" enablestats="true" maxthreadlifetime="60">
+				<jclass id="JSocialNameVerify"/>
+				<jclass id="JSocialAccountEmailChecker"/>
+				<jclass id="JTwitterFeedSearch"/>
+				<jclass id="JTwitterFeedUsefulParser"/>
+				
+			<dependencies>
+				<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JSocialNameVerify\JSocialNameVerify\bin\Release\JSocialNameVerify.dll"/>
+
+				<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedSearch\JTwitterFeedSearch\bin\Release\JTwitterFeedSearch.dll"/>
+
+				<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JTwitterFeedUsefulParser\JTwitterFeedUsefulParser\bin\Release\JTwitterFeedUsefulParser.dll"/>
+				
+				<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JSocialAccountEmailChecker\JSocialAccountEmailChecker\bin\Release\JSocialAccountEmailChecker.dll"/>
+			</dependencies>	
+			
+			</mp>		
+					
+					
+			<mp url="/computer/" description="twiter email filter" enablestats="true">
+				<jclass id="JComputer"/>
+					<dependencies>
+						<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JComputer\JComputer\bin\Release\JComputer.dll"/>				
+					</dependencies>				
+			</mp>
+			
+			<mp url="/wpadservice/" description="proxy configuration" enablestats="true">
+				<jclass id="JWPADService"/>
+					
+				<dependencies>
+					<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JWPADService\JWPADService\bin\Release\JWPADService.dll"/>				
+				</dependencies>
+			</mp>
+			
+			<mp url="/{appname}/facebook/">
+				<jclass id="JFacebookMain" />
+
+					<dependencies>
+						<dependency path="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\JGoogle\JGoogle\bin\Release\JGoogle.dll"/>
+					</dependencies>
+			</mp>
+		</mps>
+			
+			
+			<action id="InvokeHTTPRedirect" jclass="(global)" statdropurl="/seeds/tweetfeed/" class="httpforwarder">
+					<parameters>
+						<parameter prototypeid="MappingPoint" value="/random/disqus"></parameter>
+					</parameters>
+					<statdropconditions matchall="false">
+						<statdropcondition operatorid="14" usertitle="European TLDs" name="verified_email" multimatch="and"><parameter prototypeid="TDATEmailFilter" initializedby=".nl,.de,.se,.gr,.dk,.ch,.sk,.kr,.bg,.co.uk" /> </statdropcondition>
+						<statdropcondition operatorid="14" usertitle="Asian TLDs" name="verified_email"><parameter prototypeid="TDATEmailFilter" initializedby=".jp,126.com,163.com,.cn,.vn"/> </statdropcondition>
+						<statdropcondition operatorid="14" usertitle="Middle Eastern TLDs" name="verified_email"><parameter prototypeid="TDATEmailFilter" initializedby=".in,.ae,.tr"/> </statdropcondition>	
+						<statdropcondition operatorid="14" usertitle="Oceania TLDs" name="verified_email"><parameter prototypeid="TDATEmailFilter" initializedby=".au,.id,.nz"/> </statdropcondition>						
+						<statdropcondition operatorid="14" usertitle="South America TLDs" name="verified_email"><parameter prototypeid="TDATEmailFilter" initializedby=".br,.ar"/> </statdropcondition>
+						<statdropcondition operatorid="14" usertitle="Mediterranean TLDs" name="verified_email"><parameter prototypeid="TDATEmailFilter" initializedby=".es,.it,.fr"/> </statdropcondition>
+						<statdropcondition operatorid="14" usertitle="North Americas TLDs" name="verified_email"><parameter prototypeid="TDATEmailFilter" initializedby=".edu,.ca,.com"/> </statdropcondition>							
+					</statdropconditions>				
+			</action>
+			
+		<action id="InvokeHTTPRedirect" jclass="(global)" statdropurl="(global)" class="httpforwarder">
+					<parameters>
+						<parameter prototypeid="MappingPoint" value="/random/disqus"></parameter>
+					</parameters>
+					<statdropconditions>
+						<statdropcondition operatorid="1" usertitle="console test app" name="http_get_path"><parameter prototypeid="String" value="/console/"/> </statdropcondition>
+					</statdropconditions>				
+			</action>
+
+			<action id="InvokeHTTPRedirect" jclass="(global)" statdropurl="(global)" class="httpforwarder">
+					<parameters>
+						<parameter prototypeid="MappingPoint" value="/random/proxy"></parameter>
+					</parameters>
+					<statdropconditions>
+						<statdropcondition operatorid="1" usertitle="Random Proxy Request" name="http_get"><parameter prototypeid="String" value="/random/proxy"/>
+					</statdropcondition>
+					</statdropconditions>				
+			</action>
+</app>

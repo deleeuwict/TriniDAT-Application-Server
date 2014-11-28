@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<app name="Test" interface="false" author="GertJan de Leeuw" authorcontactemail="info@deleeuwict.nl" authorcontactwebsite="http://www.deleeuwict.nl" runtimecount="271" id="2">
+  <paymentdata>
+    <paymentgateway>1</paymentgateway>
+    <paymenthandle>2</paymenthandle>
+  </paymentdata>
+  <mps>
+    <mp url="/ticket/" enablestats="true" runtimecount="1">
+      <jclass id="JTicketMaster"></jclass>
+    </mp>
+    <mp url="/webstorage/" description="shared files" enablestats="true" maxthreadlifetime="30" runtimecount="217">
+      <jclass id="JFileserver" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JFileserver.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JFileserver.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/disqus" description="Random DISQUS thread" interactiveconsolefeatures="true" enablestats="true" maxthreadlifetime="60">
+      <jclass id="JTextToSpeech" />
+      <jclass id="JDISQUSThread" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JDISQUSThread.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JDISQUSThread.dll" />
+      </dependencies>
+    </mp>
+    <mp id="twitter" url="/twitter" description="tweetfeed" interactiveconsolefeatures="true" enablestats="true" maxthreadlifetime="60">
+      <jclass id="JTextToSpeech" />
+      <jclass id="JSocialNameVerify" />
+      <jclass id="JSocialAccountEmailChecker" />
+      <jclass id="JTwitterFeedSearch" />
+      <jclass id="JTwitterFeedUsefulParser" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JSocialNameVerify.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JSocialNameVerify.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JTwitterFeedSearch.dll" name="Module 2 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JTwitterFeedSearch.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JTwitterFeedUsefulParser.dll" name="Module 3 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JTwitterFeedUsefulParser.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JSocialAccountEmailChecker.dll" name="Module 4 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JSocialAccountEmailChecker.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/jnetwork" description="network stuff" enablestats="true" maxthreadlifetime="60">
+      <jclass id="JNetwork" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JNetwork.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JNetwork.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/triggerkeywords/" description="Google books keyword extracter" enablestats="true" runtimecount="19">
+      <jclass id="JGoogleBooksKeywords" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JGoogle.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JGoogle.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATHTTPBrowser.dll" name="Module 2 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATHTTPBrowser.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATPrimitiveXMLDOM.dll" name="Module 3 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATPrimitiveXMLDOM.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATBrowserEvent.dll" name="Module 4 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATBrowserEvent.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/computer/" description="local client services" enablestats="true" runtimecount="113">
+      <jclass id="JComputer" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JComputer.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JComputer.dll" />
+      </dependencies>
+    </mp>
+    <mp id="cnn" url="/demo/cnn/" description="Live CNN demo" enablestats="true" interactiveconsolefeatures="true" runtimecount="160">
+      <jclass id="JWebBrowser" />
+      <jclass id="JCNNDemo" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATHTTPBrowser.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATHTTPBrowser.dll" />
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATPrimitiveXMLDOM.dll" name="Module 2 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\TriniDATPrimitiveXMLDOM.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/wpadservice/" description="proxy configuration" enablestats="true" runtimecount="1014">
+      <jclass id="JWPADService" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JWPADService.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JWPADService.dll" />
+      </dependencies>
+    </mp>
+    <mp url="/{appname}/facebook/">
+      <jclass id="JFacebookMain" />
+      <dependencies>
+        <dependency path="C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JGoogle.dll" name="Module 1 : C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\trinidat_config\apps\9\JGoogle.dll" />
+      </dependencies>
+    </mp>
+  </mps>
+  <!-- speak twitter message -->
+  <action id="my action" jclass="(global)" monitorurl="/twitter/" context="stats" action="speakstatvalue">
+    <parameters>
+      <parameter prototypeid="String" value="todo"></parameter>
+    </parameters>
+    <statdropconditions trymatchall="false">
+      <statdropcondition operatorid="0" usertitle="message" name="message"></statdropcondition>
+    </statdropconditions>
+  </action>
+  <!-- log twitter message -->
+  <action id="my action" jclass="(global)" monitorurl="/twitter/" context="webservice" action="consolelog">
+    <parameters>
+      <parameter prototypeid="String" value="todo"></parameter>
+    </parameters>
+    <statdropconditions>
+      <statdropcondition operatorid="0" usertitle="message" name="message"></statdropcondition>
+    </statdropconditions>
+  </action>
+  <action id="my action" jclass="(global)" monitorurl="/twitter/" context="stats" action="speakstatnamevalue">
+    <parameters>
+      <parameter prototypeid="String" value="todo"></parameter>
+    </parameters>
+    <statdropconditions trymatchall="false">
+      <statdropcondition operatorid="14" usertitle="Simon likes Europe" name="(any)" multimatch="and">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".nl,.be,.de,.se,.gr,.dk,.ch,.sk,.kr,.bg,.co.uk" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Asia" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".jp,126.com,163.com,.cn,.vn" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Middle-East" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".in,.ae,.tr,.co.il" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Oceania" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".au,.id,.nz" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes South-America " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".br,.ar" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes Mid terrean Sea" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".es,.it,.fr" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon likes North-America " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".edu,.ca,.com" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Simon says hello" name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".za" />
+      </statdropcondition>
+    </statdropconditions>
+  </action>
+  <action id="my action" jclass="(global)" monitorurl="/seeds/tweetfeed/" context="webservice" action="consolelog">
+    <parameters>
+      <parameter prototypeid="MappingPoint" value="/random/disqus"></parameter>
+    </parameters>
+    <statdropconditions trymatchall="false">
+      <statdropcondition operatorid="14" usertitle="Europa " name="(any)" multimatch="and">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".nl,.be,.de,.se,.gr,.dk,.ch,.sk,.kr,.bg,.co.uk" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Azi?? " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".jp,126.com,163.com,.cn,.vn" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Midden-Oosten " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".in,.ae,.tr" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Oceani?? " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".au,.id,.nz" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Zuid-Amerika " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".br,.ar" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Mediterraan " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".es,.it,.fr" />
+      </statdropcondition>
+      <statdropcondition operatorid="14" usertitle="Noord-Amerika " name="(any)">
+        <parameter prototypeid="TDATEmailFilter" initializedby=".edu,.ca,.com" />
+      </statdropcondition>
+    </statdropconditions>
+  </action>
+</app>

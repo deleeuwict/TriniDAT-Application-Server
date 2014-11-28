@@ -1,0 +1,166 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.BosswaveTabbed.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmCaptchaInput.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmCodeEditor.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmQueryEditor.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmServerMain.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmThreadedConsoleWB.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmSplash.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.PickIPAddress.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmSellPackageWizard.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmUploadPackage.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmAppLicense.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.HiddenActionExecutor.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.exe
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.BosswaveTabbed.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmAppLicense.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmCaptchaInput.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmCodeEditor.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmUploadPackage.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmQueryEditor.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmSellPackageWizard.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmServerMain.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmThreadedConsoleWB.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.HiddenActionExecutor.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.Resources.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmSplash.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.PickIPAddress.resources
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.exe
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.xml
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerLicense.dll
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerLicense.pdb
+C:\Users\Gerrit\Documents\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerLicense.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.exe
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.exe
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDAT.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerLicense.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATBrowserEvent.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPBrowser.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATDictionaries.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATHTTPTypes.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\Newtonsoft.Json.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\SimonTypes.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerLicense.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerLicense.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerStatTypes.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATServerTypes.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATSockets.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\bin\Debug\TriniDATPrimitiveXMLDOM.xml
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.BosswaveTabbed.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmAppLicense.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmCaptchaInput.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmCodeEditor.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmUploadPackage.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmQueryEditor.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmSellPackageWizard.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmServerMain.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmThreadedConsoleWB.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.HiddenActionExecutor.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.Resources.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.frmSplash.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.PickIPAddress.resources
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\TriniDATAppServer\obj\x86\Debug\TriniDAT.IEScripter.resources

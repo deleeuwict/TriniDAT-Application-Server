@@ -1,0 +1,26 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\bin\Release\TestService.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\bin\Release\TestService.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\bin\Release\TestService.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\TestService.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\TestService.dll
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\TestService.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\TestService\obj\Release\TestService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\bin\Release\TestService.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\bin\Release\TestService.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\bin\Release\TestService.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\bin\Release\BlingserverTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\bin\Release\BlingserverTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\bin\Release\BlingserverTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\TestService.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\TestService.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\TestService.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\Libraries\TestService\TestService\obj\Release\TestService.pdb

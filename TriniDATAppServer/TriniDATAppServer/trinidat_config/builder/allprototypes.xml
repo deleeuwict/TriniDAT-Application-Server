@@ -1,0 +1,14 @@
+<prototypes>
+	<prototype id="String" visualselector="Text">(value)</prototype>
+	<prototype id="URL" visualselector="" inherits="String"/>
+	<prototype id="ChromeBotOut" visualselector="Text">(value)</prototype>
+	<prototype id="XML" visualselector="Text">(value)</prototype>
+	<prototype id="Integer" visualselector="Number">0</prototype>
+	<prototype id="Boolean" visualselector="Boolean">false</prototype>	
+	<prototype id="JSON.Property" visualselector="">false</prototype>	
+	<prototype id="TDATArray" visualselector="" inherits="String" module="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\Prototypes\TDATArray\TDATArray\bin\Release\TDATArray.dll"/>
+	<prototype id="TDATEmailFilter" visualselector="" inherits="TDATArray" module="C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\TriniDATAppServer\Libraries\Prototypes\TDATArray\TDATArray\bin\Release\TDATArray.dll"/>	
+	<prototype id="MappingPoint" visualselector="" inherits="String"/>
+	<prototype id="App" visualselector="" inherits="Array"/>
+	<prototype id="Birthday" visualselector="" inherits="Array"/>
+</prototypes>

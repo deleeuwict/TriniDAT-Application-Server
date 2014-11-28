@@ -1,0 +1,16 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingPrimitiveXMLDOM.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingPrimitiveXMLDOM.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingPrimitiveXMLDOM.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\bin\Debug\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\BlingPrimitiveXMLDOM.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\BlingPrimitiveXMLDOM.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\BlingPrimitiveXMLDOM.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingPrimitiveXMLDOM\BlingPrimitiveXMLDOM\obj\Debug\BlingPrimitiveXMLDOM.pdb

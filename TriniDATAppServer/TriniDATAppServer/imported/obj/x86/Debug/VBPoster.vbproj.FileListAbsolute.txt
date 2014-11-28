@@ -1,0 +1,22 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\bin\Debug\VBPoster.exe
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\bin\Debug\VBPoster.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\bin\Debug\VBPoster.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\VBPoster.Form1.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\VBPoster.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\VBPoster.exe
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\VBPoster.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\VBPoster\obj\x86\Debug\VBPoster.pdb
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\VBPoster.exe
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\VBPoster.xml
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\VBPoster.pdb
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\bin\Debug\VBPoster.exe
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\bin\Debug\VBPoster.pdb
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\bin\Debug\VBPoster.xml
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\VBPoster.Form1.resources
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\VBPoster.Resources.resources
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\documents\visual studio 2010\Projects\VBPoster\VBPoster\obj\x86\Debug\GenerateResource.write.1.tlog

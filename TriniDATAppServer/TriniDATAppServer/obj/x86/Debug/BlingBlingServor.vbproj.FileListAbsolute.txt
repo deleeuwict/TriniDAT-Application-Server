@@ -1,0 +1,55 @@
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\BlingBlingServor.Form1.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\BlingBlingServor.Resources.resources
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\bin\Debug\BlingBlingServor.exe
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\bin\Debug\BlingBlingServor.pdb
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\bin\Debug\BlingBlingServor.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\BlingBlingServor.exe
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\BlingBlingServor.xml
+C:\Users\gertjan\AppData\Local\Temporary Projects\BlingBlingServor\obj\x86\Debug\BlingBlingServor.pdb
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\gertjan\documents\visual studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingDictionaries.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingDictionaries.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingDictionaries.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingSockets.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingSockets.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingSockets.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\TriniDAT.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\TriniDAT.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\TriniDAT.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.BosswaveTabbed.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.frmCaptchaInput.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.frmCodeEditor.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.frmQueryEditor.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.frmServerMain.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.frmThreadedConsoleWB.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.frmSplash.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.exe
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\obj\x86\Debug\TriniDAT.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingBrowser.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingPrimitiveXMLDOM.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingBrowser.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingBrowser.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingPrimitiveXMLDOM.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\BlingPrimitiveXMLDOM.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\SimonTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\SimonTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\SimonTypes.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\TrinidadServerTypes.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\TrinidadServerTypes.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\BlingBlingServor\BlingBlingServor\bin\Debug\TrinidadServerTypes.xml

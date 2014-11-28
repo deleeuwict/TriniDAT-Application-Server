@@ -1,0 +1,8 @@
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\bin\Release\csExWB.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\bin\Release\csExWB.pdb
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\bin\Release\Interop.CSEXWBDLMANLib.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\obj\Release\Interop.CSEXWBDLMANLib.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\obj\Release\csExWB.csproj.ResolveComReference.cache
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\obj\Release\csExWB.dll
+C:\Documents and Settings\DaG\Mijn documenten\Visual Studio 2010\Projects\3rd party libs\csEXWB\csExWB\csExWB\obj\Release\csExWB.pdb

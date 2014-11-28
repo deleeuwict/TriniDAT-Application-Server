@@ -1,0 +1,10 @@
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\bin\Release\TriniDATBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\bin\Release\TriniDATBrowserEvent.pdb
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\bin\Release\TriniDATBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\ResolveAssemblyReference.cache
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\TriniDATBrowserEvent.Resources.resources
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\GenerateResource.read.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\TriniDATBrowserEvent.dll
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\TriniDATBrowserEvent.xml
+C:\Users\gertjan\Documents\Visual Studio 2010\Projects\TriniDATBrowserEvent\TriniDATBrowserEvent\obj\Release\TriniDATBrowserEvent.pdb
